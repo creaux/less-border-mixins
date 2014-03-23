@@ -6,7 +6,7 @@
     "Petr Juna <petr.juna@gmail.com>"
   ],
   "description": "Border mixins for easier border creation.",
-  "main": "border.less",
+  "main": "staniol.json",
   "keywords": [
     "border"
   ],
