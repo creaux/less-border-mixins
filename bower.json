@@ -1,6 +1,6 @@
 {
   "name": "less-border-mixins",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/creaux/less-border-mixins",
   "authors": [
     "Petr Juna <petr.juna@gmail.com>"
@@ -8,7 +8,7 @@
   "description": "Border mixins for easier border creation.",
   "main": "staniol.json",
   "keywords": [
-    "border"
+    "border", "staniol"
   ],
   "license": "MIT",
   "ignore": [
